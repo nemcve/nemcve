@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemcve
 - 👀 I’m interested in Software Development and Cloud Technologies.
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning about DevOps.
 
 <!---
 nemcve/nemcve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
