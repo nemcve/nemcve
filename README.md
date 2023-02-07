@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nemcve
-- 👀 Interested in Software Development and Cloud Technologies
+- 👀 Interested in Cloud Technologies
 - 🌱 Currently learning about DevOps
 - 🏆 Next goal - Microsoft Azure: Fundamentals and Microsoft Azure: Data Fundamentals certification
 <!---
